@@ -1,0 +1,6 @@
+SEAL — pre-retest state, frozen 2026-11-03 (protocol seed 20261103)
+
+3b6586068357c10711b1b5af34d587e854e80cae181a9bcea635e560b05769a3  dmdi_coding_matrix.csv  (master DMDI coding matrix (A_ ratings))
+95b762f2978733f76c1db865b179a6e98248695e9f8d76491342f42b6b5a00dc  SUBSAMPLE_key.csv  (subsample key (coder A original ratings, sealed until retest returned))
+bed2444a69a4c730bab4f3d15ef983ccf57fa0469469eb8c81634567bd6d3d01  IntraCoder_ReCode_SHEET.csv  (coder-facing retest sheet (B_ columns empty at freeze))
+5b16df15b1f2999713efe507dc823a92a2077e225ff724ef8c76cb7314f0535b  build_codebook_docx.py  (codebook builder (rules unchanged))

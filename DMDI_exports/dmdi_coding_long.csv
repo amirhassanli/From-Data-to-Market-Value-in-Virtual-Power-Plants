@@ -1,0 +1,313 @@
+study,reference,dimension,rating,rating_long
+Ruan et al.,[4],I,P,Partial
+Ruan et al.,[4],U,P,Partial
+Ruan et al.,[4],D,P,Partial
+Ruan et al.,[4],M,P,Partial
+Ruan et al.,[4],O,NR,Not reported
+Ruan et al.,[4],S,NR,Not reported
+Ruan et al.,[4],R,P,Partial
+Ruan et al.,[4],P,P,Partial
+Gao et al.,[5],I,P,Partial
+Gao et al.,[5],U,P,Partial
+Gao et al.,[5],D,P,Partial
+Gao et al.,[5],M,P,Partial
+Gao et al.,[5],O,NR,Not reported
+Gao et al.,[5],S,NR,Not reported
+Gao et al.,[5],R,P,Partial
+Gao et al.,[5],P,P,Partial
+Kaiss et al.,[6],I,P,Partial
+Kaiss et al.,[6],U,P,Partial
+Kaiss et al.,[6],D,P,Partial
+Kaiss et al.,[6],M,E,Explicit
+Kaiss et al.,[6],O,NR,Not reported
+Kaiss et al.,[6],S,NR,Not reported
+Kaiss et al.,[6],R,P,Partial
+Kaiss et al.,[6],P,P,Partial
+Esfahani et al.,[7],I,P,Partial
+Esfahani et al.,[7],U,NR,Not reported
+Esfahani et al.,[7],D,P,Partial
+Esfahani et al.,[7],M,P,Partial
+Esfahani et al.,[7],O,NR,Not reported
+Esfahani et al.,[7],S,NR,Not reported
+Esfahani et al.,[7],R,NR,Not reported
+Esfahani et al.,[7],P,E,Explicit
+Wang et al. (carbon review),[16],I,P,Partial
+Wang et al. (carbon review),[16],U,P,Partial
+Wang et al. (carbon review),[16],D,P,Partial
+Wang et al. (carbon review),[16],M,E,Explicit
+Wang et al. (carbon review),[16],O,NR,Not reported
+Wang et al. (carbon review),[16],S,P,Partial
+Wang et al. (carbon review),[16],R,P,Partial
+Wang et al. (carbon review),[16],P,P,Partial
+Zare et al.,[8],I,P,Partial
+Zare et al.,[8],U,P,Partial
+Zare et al.,[8],D,E,Explicit
+Zare et al.,[8],M,E,Explicit
+Zare et al.,[8],O,NR,Not reported
+Zare et al.,[8],S,P,Partial
+Zare et al.,[8],R,P,Partial
+Zare et al.,[8],P,E,Explicit
+Wozabal and Rameseder,[17],I,E,Explicit
+Wozabal and Rameseder,[17],U,E,Explicit
+Wozabal and Rameseder,[17],D,E,Explicit
+Wozabal and Rameseder,[17],M,E,Explicit
+Wozabal and Rameseder,[17],O,E,Explicit
+Wozabal and Rameseder,[17],S,P,Partial
+Wozabal and Rameseder,[17],R,P,Partial
+Wozabal and Rameseder,[17],P,NR,Not reported
+Vahedipour-Dahraie et al.,[18],I,P,Partial
+Vahedipour-Dahraie et al.,[18],U,E,Explicit
+Vahedipour-Dahraie et al.,[18],D,E,Explicit
+Vahedipour-Dahraie et al.,[18],M,E,Explicit
+Vahedipour-Dahraie et al.,[18],O,NR,Not reported
+Vahedipour-Dahraie et al.,[18],S,NR,Not reported
+Vahedipour-Dahraie et al.,[18],R,P,Partial
+Vahedipour-Dahraie et al.,[18],P,NR,Not reported
+Sadeghi et al.,[19],I,E,Explicit
+Sadeghi et al.,[19],U,E,Explicit
+Sadeghi et al.,[19],D,E,Explicit
+Sadeghi et al.,[19],M,E,Explicit
+Sadeghi et al.,[19],O,P,Partial
+Sadeghi et al.,[19],S,P,Partial
+Sadeghi et al.,[19],R,P,Partial
+Sadeghi et al.,[19],P,NR,Not reported
+Sadeghi Gougheri et al.,[20],I,E,Explicit
+Sadeghi Gougheri et al.,[20],U,E,Explicit
+Sadeghi Gougheri et al.,[20],D,E,Explicit
+Sadeghi Gougheri et al.,[20],M,E,Explicit
+Sadeghi Gougheri et al.,[20],O,P,Partial
+Sadeghi Gougheri et al.,[20],S,P,Partial
+Sadeghi Gougheri et al.,[20],R,P,Partial
+Sadeghi Gougheri et al.,[20],P,NR,Not reported
+"Wang et al. (DRL, EV)",[28],I,P,Partial
+"Wang et al. (DRL, EV)",[28],U,P,Partial
+"Wang et al. (DRL, EV)",[28],D,E,Explicit
+"Wang et al. (DRL, EV)",[28],M,P,Partial
+"Wang et al. (DRL, EV)",[28],O,NR,Not reported
+"Wang et al. (DRL, EV)",[28],S,NR,Not reported
+"Wang et al. (DRL, EV)",[28],R,P,Partial
+"Wang et al. (DRL, EV)",[28],P,NR,Not reported
+Liu et al. (carbon-electricity),[31],I,P,Partial
+Liu et al. (carbon-electricity),[31],U,P,Partial
+Liu et al. (carbon-electricity),[31],D,E,Explicit
+Liu et al. (carbon-electricity),[31],M,E,Explicit
+Liu et al. (carbon-electricity),[31],O,NR,Not reported
+Liu et al. (carbon-electricity),[31],S,P,Partial
+Liu et al. (carbon-electricity),[31],R,P,Partial
+Liu et al. (carbon-electricity),[31],P,NR,Not reported
+"Chen et al. (robust, EV)",[69],I,P,Partial
+"Chen et al. (robust, EV)",[69],U,E,Explicit
+"Chen et al. (robust, EV)",[69],D,E,Explicit
+"Chen et al. (robust, EV)",[69],M,P,Partial
+"Chen et al. (robust, EV)",[69],O,NR,Not reported
+"Chen et al. (robust, EV)",[69],S,NR,Not reported
+"Chen et al. (robust, EV)",[69],R,P,Partial
+"Chen et al. (robust, EV)",[69],P,NR,Not reported
+Falabretti et al.,[67],I,E,Explicit
+Falabretti et al.,[67],U,E,Explicit
+Falabretti et al.,[67],D,E,Explicit
+Falabretti et al.,[67],M,E,Explicit
+Falabretti et al.,[67],O,P,Partial
+Falabretti et al.,[67],S,E,Explicit
+Falabretti et al.,[67],R,P,Partial
+Falabretti et al.,[67],P,NR,Not reported
+Yang et al.,[72],I,P,Partial
+Yang et al.,[72],U,E,Explicit
+Yang et al.,[72],D,E,Explicit
+Yang et al.,[72],M,E,Explicit
+Yang et al.,[72],O,NR,Not reported
+Yang et al.,[72],S,P,Partial
+Yang et al.,[72],R,P,Partial
+Yang et al.,[72],P,NR,Not reported
+Fan and Liu,[15],I,E,Explicit
+Fan and Liu,[15],U,E,Explicit
+Fan and Liu,[15],D,E,Explicit
+Fan and Liu,[15],M,E,Explicit
+Fan and Liu,[15],O,NR,Not reported
+Fan and Liu,[15],S,E,Explicit
+Fan and Liu,[15],R,P,Partial
+Fan and Liu,[15],P,NR,Not reported
+Liu et al. (carbon joint),[32],I,P,Partial
+Liu et al. (carbon joint),[32],U,P,Partial
+Liu et al. (carbon joint),[32],D,E,Explicit
+Liu et al. (carbon joint),[32],M,E,Explicit
+Liu et al. (carbon joint),[32],O,NR,Not reported
+Liu et al. (carbon joint),[32],S,P,Partial
+Liu et al. (carbon joint),[32],R,P,Partial
+Liu et al. (carbon joint),[32],P,NR,Not reported
+Wang et al. (PV forecast),[21],I,E,Explicit
+Wang et al. (PV forecast),[21],U,P,Partial
+Wang et al. (PV forecast),[21],D,P,Partial
+Wang et al. (PV forecast),[21],M,P,Partial
+Wang et al. (PV forecast),[21],O,NR,Not reported
+Wang et al. (PV forecast),[21],S,NR,Not reported
+Wang et al. (PV forecast),[21],R,P,Partial
+Wang et al. (PV forecast),[21],P,NR,Not reported
+Mei et al. (two-step bidding),[78],I,E,Explicit
+Mei et al. (two-step bidding),[78],U,E,Explicit
+Mei et al. (two-step bidding),[78],D,E,Explicit
+Mei et al. (two-step bidding),[78],M,E,Explicit
+Mei et al. (two-step bidding),[78],O,NR,Not reported
+Mei et al. (two-step bidding),[78],S,P,Partial
+Mei et al. (two-step bidding),[78],R,P,Partial
+Mei et al. (two-step bidding),[78],P,NR,Not reported
+Xu et al. (model-assisted MARL),[29],I,P,Partial
+Xu et al. (model-assisted MARL),[29],U,P,Partial
+Xu et al. (model-assisted MARL),[29],D,E,Explicit
+Xu et al. (model-assisted MARL),[29],M,E,Explicit
+Xu et al. (model-assisted MARL),[29],O,NR,Not reported
+Xu et al. (model-assisted MARL),[29],S,NR,Not reported
+Xu et al. (model-assisted MARL),[29],R,P,Partial
+Xu et al. (model-assisted MARL),[29],P,NR,Not reported
+Wu et al. (adaptive MARL),[30],I,P,Partial
+Wu et al. (adaptive MARL),[30],U,P,Partial
+Wu et al. (adaptive MARL),[30],D,E,Explicit
+Wu et al. (adaptive MARL),[30],M,E,Explicit
+Wu et al. (adaptive MARL),[30],O,NR,Not reported
+Wu et al. (adaptive MARL),[30],S,NR,Not reported
+Wu et al. (adaptive MARL),[30],R,P,Partial
+Wu et al. (adaptive MARL),[30],P,NR,Not reported
+Li (semi-anticipative DRO),[24],I,E,Explicit
+Li (semi-anticipative DRO),[24],U,E,Explicit
+Li (semi-anticipative DRO),[24],D,E,Explicit
+Li (semi-anticipative DRO),[24],M,E,Explicit
+Li (semi-anticipative DRO),[24],O,NR,Not reported
+Li (semi-anticipative DRO),[24],S,NR,Not reported
+Li (semi-anticipative DRO),[24],R,P,Partial
+Li (semi-anticipative DRO),[24],P,NR,Not reported
+Kim and Choi (sample robust),[75],I,E,Explicit
+Kim and Choi (sample robust),[75],U,E,Explicit
+Kim and Choi (sample robust),[75],D,E,Explicit
+Kim and Choi (sample robust),[75],M,E,Explicit
+Kim and Choi (sample robust),[75],O,E,Explicit
+Kim and Choi (sample robust),[75],S,P,Partial
+Kim and Choi (sample robust),[75],R,P,Partial
+Kim and Choi (sample robust),[75],P,NR,Not reported
+Nadimi and Goto (uncertainty reduction),[22],I,E,Explicit
+Nadimi and Goto (uncertainty reduction),[22],U,E,Explicit
+Nadimi and Goto (uncertainty reduction),[22],D,E,Explicit
+Nadimi and Goto (uncertainty reduction),[22],M,E,Explicit
+Nadimi and Goto (uncertainty reduction),[22],O,P,Partial
+Nadimi and Goto (uncertainty reduction),[22],S,P,Partial
+Nadimi and Goto (uncertainty reduction),[22],R,P,Partial
+Nadimi and Goto (uncertainty reduction),[22],P,NR,Not reported
+Nadimi and Goto (DSS-BiLSTM),[23],I,E,Explicit
+Nadimi and Goto (DSS-BiLSTM),[23],U,P,Partial
+Nadimi and Goto (DSS-BiLSTM),[23],D,P,Partial
+Nadimi and Goto (DSS-BiLSTM),[23],M,E,Explicit
+Nadimi and Goto (DSS-BiLSTM),[23],O,P,Partial
+Nadimi and Goto (DSS-BiLSTM),[23],S,P,Partial
+Nadimi and Goto (DSS-BiLSTM),[23],R,P,Partial
+Nadimi and Goto (DSS-BiLSTM),[23],P,NR,Not reported
+Li et al. (coordinated DRO),[25],I,E,Explicit
+Li et al. (coordinated DRO),[25],U,E,Explicit
+Li et al. (coordinated DRO),[25],D,E,Explicit
+Li et al. (coordinated DRO),[25],M,E,Explicit
+Li et al. (coordinated DRO),[25],O,NR,Not reported
+Li et al. (coordinated DRO),[25],S,P,Partial
+Li et al. (coordinated DRO),[25],R,P,Partial
+Li et al. (coordinated DRO),[25],P,NR,Not reported
+Ma et al. (interval robust),[27],I,E,Explicit
+Ma et al. (interval robust),[27],U,E,Explicit
+Ma et al. (interval robust),[27],D,E,Explicit
+Ma et al. (interval robust),[27],M,E,Explicit
+Ma et al. (interval robust),[27],O,NR,Not reported
+Ma et al. (interval robust),[27],S,P,Partial
+Ma et al. (interval robust),[27],R,P,Partial
+Ma et al. (interval robust),[27],P,NR,Not reported
+Song et al. (DRO scenarios),[26],I,E,Explicit
+Song et al. (DRO scenarios),[26],U,E,Explicit
+Song et al. (DRO scenarios),[26],D,E,Explicit
+Song et al. (DRO scenarios),[26],M,E,Explicit
+Song et al. (DRO scenarios),[26],O,NR,Not reported
+Song et al. (DRO scenarios),[26],S,P,Partial
+Song et al. (DRO scenarios),[26],R,P,Partial
+Song et al. (DRO scenarios),[26],P,NR,Not reported
+Song et al. (pay-as-bid / pay-as-clear),[35],I,E,Explicit
+Song et al. (pay-as-bid / pay-as-clear),[35],U,E,Explicit
+Song et al. (pay-as-bid / pay-as-clear),[35],D,E,Explicit
+Song et al. (pay-as-bid / pay-as-clear),[35],M,E,Explicit
+Song et al. (pay-as-bid / pay-as-clear),[35],O,NR,Not reported
+Song et al. (pay-as-bid / pay-as-clear),[35],S,E,Explicit
+Song et al. (pay-as-bid / pay-as-clear),[35],R,P,Partial
+Song et al. (pay-as-bid / pay-as-clear),[35],P,NR,Not reported
+Choi et al. (DER combinations),[10],I,E,Explicit
+Choi et al. (DER combinations),[10],U,E,Explicit
+Choi et al. (DER combinations),[10],D,E,Explicit
+Choi et al. (DER combinations),[10],M,E,Explicit
+Choi et al. (DER combinations),[10],O,NR,Not reported
+Choi et al. (DER combinations),[10],S,E,Explicit
+Choi et al. (DER combinations),[10],R,P,Partial
+Choi et al. (DER combinations),[10],P,NR,Not reported
+Bian et al. (CVaR energy-regulation-carbon),[34],I,E,Explicit
+Bian et al. (CVaR energy-regulation-carbon),[34],U,E,Explicit
+Bian et al. (CVaR energy-regulation-carbon),[34],D,E,Explicit
+Bian et al. (CVaR energy-regulation-carbon),[34],M,E,Explicit
+Bian et al. (CVaR energy-regulation-carbon),[34],O,NR,Not reported
+Bian et al. (CVaR energy-regulation-carbon),[34],S,P,Partial
+Bian et al. (CVaR energy-regulation-carbon),[34],R,P,Partial
+Bian et al. (CVaR energy-regulation-carbon),[34],P,NR,Not reported
+Esfahani et al. (DDRO),[73],I,E,Explicit
+Esfahani et al. (DDRO),[73],U,E,Explicit
+Esfahani et al. (DDRO),[73],D,E,Explicit
+Esfahani et al. (DDRO),[73],M,E,Explicit
+Esfahani et al. (DDRO),[73],O,NR,Not reported
+Esfahani et al. (DDRO),[73],S,NR,Not reported
+Esfahani et al. (DDRO),[73],R,P,Partial
+Esfahani et al. (DDRO),[73],P,NR,Not reported
+Li et al. (hierarchical DRL),[65],I,P,Partial
+Li et al. (hierarchical DRL),[65],U,P,Partial
+Li et al. (hierarchical DRL),[65],D,E,Explicit
+Li et al. (hierarchical DRL),[65],M,P,Partial
+Li et al. (hierarchical DRL),[65],O,NR,Not reported
+Li et al. (hierarchical DRL),[65],S,NR,Not reported
+Li et al. (hierarchical DRL),[65],R,P,Partial
+Li et al. (hierarchical DRL),[65],P,NR,Not reported
+Siqin et al. (two-stage DRO),[63],I,E,Explicit
+Siqin et al. (two-stage DRO),[63],U,E,Explicit
+Siqin et al. (two-stage DRO),[63],D,E,Explicit
+Siqin et al. (two-stage DRO),[63],M,E,Explicit
+Siqin et al. (two-stage DRO),[63],O,NR,Not reported
+Siqin et al. (two-stage DRO),[63],S,P,Partial
+Siqin et al. (two-stage DRO),[63],R,P,Partial
+Siqin et al. (two-stage DRO),[63],P,NR,Not reported
+Wang et al. (risk-aware XGBoost/CVaR),[64],I,E,Explicit
+Wang et al. (risk-aware XGBoost/CVaR),[64],U,E,Explicit
+Wang et al. (risk-aware XGBoost/CVaR),[64],D,E,Explicit
+Wang et al. (risk-aware XGBoost/CVaR),[64],M,E,Explicit
+Wang et al. (risk-aware XGBoost/CVaR),[64],O,NR,Not reported
+Wang et al. (risk-aware XGBoost/CVaR),[64],S,P,Partial
+Wang et al. (risk-aware XGBoost/CVaR),[64],R,P,Partial
+Wang et al. (risk-aware XGBoost/CVaR),[64],P,NR,Not reported
+Jin et al. (Q-learning / QPSO),[79],I,P,Partial
+Jin et al. (Q-learning / QPSO),[79],U,P,Partial
+Jin et al. (Q-learning / QPSO),[79],D,E,Explicit
+Jin et al. (Q-learning / QPSO),[79],M,E,Explicit
+Jin et al. (Q-learning / QPSO),[79],O,NR,Not reported
+Jin et al. (Q-learning / QPSO),[79],S,NR,Not reported
+Jin et al. (Q-learning / QPSO),[79],R,P,Partial
+Jin et al. (Q-learning / QPSO),[79],P,NR,Not reported
+Xie et al. (network-constrained VPP),[51],I,E,Explicit
+Xie et al. (network-constrained VPP),[51],U,E,Explicit
+Xie et al. (network-constrained VPP),[51],D,E,Explicit
+Xie et al. (network-constrained VPP),[51],M,P,Partial
+Xie et al. (network-constrained VPP),[51],O,NR,Not reported
+Xie et al. (network-constrained VPP),[51],S,NR,Not reported
+Xie et al. (network-constrained VPP),[51],R,P,Partial
+Xie et al. (network-constrained VPP),[51],P,NR,Not reported
+Zhang et al. (closed-loop forecasting and bidding),[11],I,E,Explicit
+Zhang et al. (closed-loop forecasting and bidding),[11],U,P,Partial
+Zhang et al. (closed-loop forecasting and bidding),[11],D,E,Explicit
+Zhang et al. (closed-loop forecasting and bidding),[11],M,E,Explicit
+Zhang et al. (closed-loop forecasting and bidding),[11],O,NR,Not reported
+Zhang et al. (closed-loop forecasting and bidding),[11],S,NR,Not reported
+Zhang et al. (closed-loop forecasting and bidding),[11],R,P,Partial
+Zhang et al. (closed-loop forecasting and bidding),[11],P,NR,Not reported
+Singh et al. (uncertainty and bidding review),[40],I,P,Partial
+Singh et al. (uncertainty and bidding review),[40],U,E,Explicit
+Singh et al. (uncertainty and bidding review),[40],D,E,Explicit
+Singh et al. (uncertainty and bidding review),[40],M,E,Explicit
+Singh et al. (uncertainty and bidding review),[40],O,NR,Not reported
+Singh et al. (uncertainty and bidding review),[40],S,NR,Not reported
+Singh et al. (uncertainty and bidding review),[40],R,P,Partial
+Singh et al. (uncertainty and bidding review),[40],P,P,Partial

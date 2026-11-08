@@ -1,0 +1,40 @@
+row,study,reference,year,I,U,D,M,O,S,R,P
+1,Ruan et al.,[4],2024,P,P,P,P,NR,NR,P,P
+2,Gao et al.,[5],2024,P,P,P,P,NR,NR,P,P
+3,Kaiss et al.,[6],2025,P,P,P,E,NR,NR,P,P
+4,Esfahani et al.,[7],2025,P,NR,P,P,NR,NR,NR,E
+5,Wang et al. (carbon review),[16],2025,P,P,P,E,NR,P,P,P
+6,Zare et al.,[8],2026,P,P,E,E,NR,P,P,E
+7,Wozabal and Rameseder,[17],2020,E,E,E,E,E,P,P,NR
+8,Vahedipour-Dahraie et al.,[18],2020,P,E,E,E,NR,NR,P,NR
+9,Sadeghi et al.,[19],2021,E,E,E,E,P,P,P,NR
+10,Sadeghi Gougheri et al.,[20],2021,E,E,E,E,P,P,P,NR
+11,"Wang et al. (DRL, EV)",[28],2022,P,P,E,P,NR,NR,P,NR
+12,Liu et al. (carbon-electricity),[31],2022,P,P,E,E,NR,P,P,NR
+13,"Chen et al. (robust, EV)",[69],2023,P,E,E,P,NR,NR,P,NR
+14,Falabretti et al.,[67],2023,E,E,E,E,P,E,P,NR
+15,Yang et al.,[72],2023,P,E,E,E,NR,P,P,NR
+16,Fan and Liu,[15],2024,E,E,E,E,NR,E,P,NR
+17,Liu et al. (carbon joint),[32],2024,P,P,E,E,NR,P,P,NR
+18,Wang et al. (PV forecast),[21],2024,E,P,P,P,NR,NR,P,NR
+19,Mei et al. (two-step bidding),[78],2024,E,E,E,E,NR,P,P,NR
+20,Xu et al. (model-assisted MARL),[29],2024,P,P,E,E,NR,NR,P,NR
+21,Wu et al. (adaptive MARL),[30],2024,P,P,E,E,NR,NR,P,NR
+22,Li (semi-anticipative DRO),[24],2024,E,E,E,E,NR,NR,P,NR
+23,Kim and Choi (sample robust),[75],2024,E,E,E,E,E,P,P,NR
+24,Nadimi and Goto (uncertainty reduction),[22],2025,E,E,E,E,P,P,P,NR
+25,Nadimi and Goto (DSS-BiLSTM),[23],2025,E,P,P,E,P,P,P,NR
+26,Li et al. (coordinated DRO),[25],2025,E,E,E,E,NR,P,P,NR
+27,Ma et al. (interval robust),[27],2025,E,E,E,E,NR,P,P,NR
+28,Song et al. (DRO scenarios),[26],2025,E,E,E,E,NR,P,P,NR
+29,Song et al. (pay-as-bid / pay-as-clear),[35],2025,E,E,E,E,NR,E,P,NR
+30,Choi et al. (DER combinations),[10],2025,E,E,E,E,NR,E,P,NR
+31,Bian et al. (CVaR energy-regulation-carbon),[34],2026,E,E,E,E,NR,P,P,NR
+32,Esfahani et al. (DDRO),[73],2024,E,E,E,E,NR,NR,P,NR
+33,Li et al. (hierarchical DRL),[65],2025,P,P,E,P,NR,NR,P,NR
+34,Siqin et al. (two-stage DRO),[63],2025,E,E,E,E,NR,P,P,NR
+35,Wang et al. (risk-aware XGBoost/CVaR),[64],2025,E,E,E,E,NR,P,P,NR
+36,Jin et al. (Q-learning / QPSO),[79],2026,P,P,E,E,NR,NR,P,NR
+37,Xie et al. (network-constrained VPP),[51],2026,E,E,E,P,NR,NR,P,NR
+38,Zhang et al. (closed-loop forecasting and bidding),[11],2025,E,P,E,E,NR,NR,P,NR
+39,Singh et al. (uncertainty and bidding review),[40],2026,P,E,E,E,NR,NR,P,P

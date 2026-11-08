@@ -1,0 +1,16 @@
+re_order,study,reference,A_I,A_U,A_D,A_M,A_O,A_S,A_R,A_P
+1,Wang et al. (risk-aware XGBoost/CVaR),[64],E,E,E,E,NR,P,P,NR
+2,"Wang et al. (DRL, EV)",[28],P,P,E,P,NR,NR,P,NR
+3,Fan and Liu,[15],E,E,E,E,NR,E,P,NR
+4,"Chen et al. (robust, EV)",[69],P,E,E,P,NR,NR,P,NR
+5,Kim and Choi (sample robust),[75],E,E,E,E,E,P,P,NR
+6,Wozabal and Rameseder,[17],E,E,E,E,E,P,P,NR
+7,Song et al. (pay-as-bid / pay-as-clear),[35],E,E,E,E,NR,E,P,NR
+8,Gao et al.,[5],P,P,P,P,NR,NR,P,P
+9,Sadeghi et al.,[19],E,E,E,E,P,P,P,NR
+10,Falabretti et al.,[67],E,E,E,E,P,E,P,NR
+11,Choi et al. (DER combinations),[10],E,E,E,E,NR,E,P,NR
+12,Ruan et al.,[4],P,P,P,P,NR,NR,P,P
+13,Esfahani et al.,[7],P,NR,P,P,NR,NR,NR,E
+14,Wang et al. (PV forecast),[21],E,P,P,P,NR,NR,P,NR
+15,Vahedipour-Dahraie et al.,[18],P,E,E,E,NR,NR,P,NR
